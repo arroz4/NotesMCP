@@ -8,6 +8,10 @@ This project is a simple AI-powered sticky notes server built with [FastMCP](htt
 - Get the latest note
 - Generate a summary prompt for all notes
 
+##Important locations
+- Docker Image(https://hub.docker.com/repository/docker/omarbarrera/stickynotes)
+- HTTP MCP Server Connection (https://stickynotes.purplesmoke-3aaf9869.westus2.azurecontainerapps.io/mcp/)
+
 ## Project Structure
 - `notes.py` — Main application code (MCP server)
 - `notes.txt` — Stores all notes (one per line)
