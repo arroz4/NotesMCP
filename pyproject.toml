@@ -1,0 +1,11 @@
+[project]
+name = "my-first-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.116.1",
+    "mcp[cli]>=1.12.2",
+    "uvicorn>=0.35.0",
+]
