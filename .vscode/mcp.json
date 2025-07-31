@@ -1,6 +1,6 @@
-{
+ {
 	"servers": {
-		"my-mcp-server-e875af7e": {
+		"stickynotes": {
 			"url": "https://stickynotes.purplesmoke-3aaf9869.westus2.azurecontainerapps.io/mcp",
 			"type": "http"
 		}
